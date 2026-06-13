@@ -4,7 +4,7 @@
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Student;&width=380&height=45">
 	</a>
 </p>
-
+##
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I have a degree in Data Analysis and Data Storytelling from UTN Buenos Aires. My main tools are MySQL, Python, Power BI, Excel, Tableau, and Looker Studio.
