@@ -15,7 +15,7 @@ I am passionate about data analytics, artificial intelligence, data visualizatio
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 - Outside of tech, 💪 I’m passionate about fitness and weight training, 🎵 listening to music and 🌿 enjoying nature and outdoor activities. I believe in continuous self-improvement and always look for opportunities to learn something new..
   
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- 📫 Reach out to me at: <a href="Fernandeztop123@gmail.com">Fernandeztop123@gmail.com</a>
 
 ## My Skills Include
 
@@ -36,14 +36,17 @@ I am passionate about data analytics, artificial intelligence, data visualizatio
 <span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
+<span>
+  <img src="https://img.shields.io/badge/SSMS_22-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)">
+</span>
 
 <h4> Data Visualization </h4>
 <span>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)">
-<img src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 <span>
 
 </span>
