@@ -6,14 +6,15 @@
 </p>
 
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I have a degree in Data Analysis and Data Storytelling from UTN Buenos Aires. My main tools are MySQL, Python, Power BI, Excel, Tableau, and Looker Studio.
+I am passionate about data analytics, artificial intelligence, data visualization, process optimization, and digital marketing. I enjoy learning new technologies, building projects, and continuously expanding my knowledge in the data field
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
+  - Python for Data Analysis
+  - Machine Learning Fundamentals
+- 🚀 My dream is to become a Data Scientist and leverage the full potential of artificial intelligence through predictive modeling, machine learning, and process automation to solve real-world problems and drive innovation..
+- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
+- Outside of tech, 💪 I’m passionate about fitness and weight training, 🎵 listening to music and 🌿 enjoying nature and outdoor activities. I believe in continuous self-improvement and always look for opportunities to learn something new..
+  
 - 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
 
 ## My Skills Include
