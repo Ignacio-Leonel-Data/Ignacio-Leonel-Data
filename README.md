@@ -13,8 +13,8 @@ I am passionate about data analytics, artificial intelligence, data visualizatio
   - Machine Learning Fundamentals
 - 🚀 My dream is to become a Data Scientist and leverage the full potential of artificial intelligence through predictive modeling, machine learning, and process automation to solve real-world problems and drive innovation..
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
-- Outside of tech, 💪 I’m passionate about fitness and weight training, 🎵 listening to music and 🌿 enjoying nature and outdoor activities. I believe in continuous self-improvement and always look for opportunities to learn something new..
-  
+- Outside of tech, 💪 I’m passionate about fitness and weight training, 🎵 listening to music🌿, enjoying nature and outdoor activities. I believe in continuous self-improvement and always look for opportunities to learn something new..
+  (I like to watch football especially if I play Messi)
 - 📫 Reach out to me at: <a href="Fernandeztop123@gmail.com">Fernandeztop123@gmail.com</a>
 
 ## My Skills Include
