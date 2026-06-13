@@ -14,7 +14,7 @@ I am passionate about data analytics, artificial intelligence, data visualizatio
 - 🚀 My dream is to become a Data Scientist and leverage the full potential of artificial intelligence through predictive modeling, machine learning, and process automation to solve real-world problems and drive innovation..
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!<br>
 - Outside of tech, 💪 I’m passionate about fitness and weight training, 🎵 listening to music🌿, enjoying nature and outdoor activities. I believe in continuous self-improvement and always look for opportunities to learn something new..
-(watching football and being a passionate Atlético Tucumán supporter)
+⚽ I enjoy watching football and I'm a passionate Atlético Tucumán fan. 💙🤍🐺
 - 📫 Reach out to me at: <a href="Fernandeztop123@gmail.com">Fernandeztop123@gmail.com</a>
 
 ## My Skills Include
