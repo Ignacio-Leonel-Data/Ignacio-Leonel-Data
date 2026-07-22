@@ -25,7 +25,7 @@ I am passionate about data analytics, artificial intelligence, data visualizatio
 
 </span>
 
-<h4> Frameworks </h4>
+<h4> Bibliotecas </h4>
 <span>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 </span>
