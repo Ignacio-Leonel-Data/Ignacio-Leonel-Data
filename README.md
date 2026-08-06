@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Student;&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analytics+Junior;&width=380&height=45">
 	</a> 
 </p>
 
